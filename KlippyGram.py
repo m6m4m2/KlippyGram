@@ -11,7 +11,7 @@ from telegram.ext import (
 # ================== CONFIGURATION ===================
 MOONRAKER_URL = "http://<YOUR-MOONRAKER-IP>"  # Your Moonraker API server URL
 TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # Replace with your bot token
-CHAT_ID = "YOUR_CHAT_ID"                    # Optional: Used for limiting responses to a specific chat/user
+CHAT_ID = "YOUR_CHAT_ID"                    # Replace with your Chat ID
 WEBCAM_URL = "http://<YOUR-MOONRAKER-IP>/webcam/?action=snapshot"  # Webcam snapshot URL
 # ====================================================
 
